@@ -1,0 +1,6 @@
+{
+  "name": "EES – Energy-Aware Adaptive CPU Scheduler",
+  "description": "An interactive Operating Systems simulation platform demonstrating Energy-Aware Adaptive Scheduling (EAAS) with DVFS against FCFS, SJF, and Round Robin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
